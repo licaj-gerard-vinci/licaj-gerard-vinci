@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @licaj-gerard-vinci
+- 👋 Hi, I’m @lilGerry
 - 👀 I’m interested in 👀
 - 🌱 I’m currently learning 👀
 - 💞️ I’m looking to collaborate on 👀
