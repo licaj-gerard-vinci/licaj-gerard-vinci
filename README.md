@@ -46,9 +46,25 @@
 <div align="center">
   <h2>My Contributions </h2>
   <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/licaj-gerard-vinci/licaj-gerard-vinci/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
-  </div>
+</div>
+  
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div display: flex; justify-content: space-between;>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=licaj-gerard-vinci&theme=dark&hide_border=false&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+</div>
+
 <hr/>
   
 <!---
