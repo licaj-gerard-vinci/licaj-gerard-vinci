@@ -58,10 +58,10 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=licaj-gerard-vinci&theme=dark&hide_border=false&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=licaj-gerard-vinci&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=licaj-gerard-vinci&show_icons=true" />
 </picture>
 </div>
 
