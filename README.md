@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Gerard+Licaj+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I'm+Gerard+Licaj)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @lilGerry
