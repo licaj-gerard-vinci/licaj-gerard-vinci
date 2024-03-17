@@ -54,7 +54,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div display: flex; justify-content: space-between;>
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=licaj-gerard-vinci&theme=dark&hide_border=false&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
 <picture>
   <source
