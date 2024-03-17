@@ -1,3 +1,6 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=licaj-gerard-vinci.licaj-gerard-vinci.visitor-badge&left_text=MyPageVisitors)
+
+
 - 👋 Hi, I’m @lilGerry
 - 👀 I’m interested in 👀
 - 🌱 I’m currently learning 👀
