@@ -23,7 +23,7 @@
   <a href="https://discordapp.com/users/853569241764855850">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" />
   </a>
-  <a href="https://imgur.com/a/QOMCixS">
+  <a href="www.linkedin.com/in/gerard-licaj-86a6b432a">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </div>
