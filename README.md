@@ -10,7 +10,7 @@
   
 💻 I'm currently working on a **Project that manages the internships**
 
-📖 I'm currently learning **Dart, Java, Javascript**
+📖 I'm currently learning **React, Java, Javascript**
 
 💬 Ask me about **anything [here](https://github.com/licaj-gerard-vinci)**
 
